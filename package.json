@@ -1,0 +1,23 @@
+{
+  "name": "async-ni",
+  "version": "1.0.0",
+  "description": "test asynchrone fonction ",
+  "main": "async.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clerck/asyn-ni.git"
+  },
+  "keywords": [
+    "test",
+    "asynchrone"
+  ],
+  "author": "clerck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clerck/asyn-ni/issues"
+  },
+  "homepage": "https://github.com/clerck/asyn-ni#readme"
+}
